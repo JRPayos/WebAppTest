@@ -1,0 +1,17 @@
+.nav-design {
+    background: #41bdb2;;
+	padding: 10px 0;
+    margin:0 0 100px 0;
+    width:100%;
+}
+
+.offcanvas-btn {
+    padding: 12px 0;
+    background-color:#175767;
+    transition: 0.1s;
+    color:aliceblue;
+}
+
+.offcanvas-btn:hover {
+    background-color: #A7FDFF;
+}
